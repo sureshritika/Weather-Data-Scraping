@@ -31,5 +31,6 @@ following steps every six hours:
 
 3. **PHP scripts** that make the website, and static **`.html` files** , along with embedded
 **images** , if any.
+    - Execute **a PHP script named _`njweather.php`_** that runs the initial dashboard page with links to the other cities.
 
 4. **A dump of the database definitions and table data**. A MySQL dump exports the data stored in the MySQL database into a `.sql` file.
