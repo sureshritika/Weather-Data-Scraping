@@ -32,5 +32,12 @@ following steps every six hours:
 3. **PHP scripts** that make the website, and static **`.html` files** , along with embedded
 **images** , if any.
     - Execute **a PHP script named _`njweather.php`_** that runs the initial dashboard page with links to the other cities.
-
+    - njweather.php
+        - ![njweather php](https://user-images.githubusercontent.com/71915358/169920447-cd6cf263-b982-4da0-a275-b2be3243b45e.png)
+    - dashboard personalization
+        - ![njweather php](https://user-images.githubusercontent.com/71915358/169920462-423be42d-7036-4cee-8d34-d56c3da8333c.png)
+    - newark.php
+        - ![newark php](https://user-images.githubusercontent.com/71915358/169920469-c20d61f4-fdd2-4f1b-aa34-e33bf393088b.png)
+    - trenton.php
+        ![trenton php](https://user-images.githubusercontent.com/71915358/169920471-78439af4-c4a6-4497-8dac-6ae9c94fd794.png)
 4. **A dump of the database definitions and table data**. A MySQL dump exports the data stored in the MySQL database into a `.sql` file.
